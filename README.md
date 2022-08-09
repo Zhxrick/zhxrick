@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hoja de vida 
+--------------------------------
+Zharick Carolina Donado Caliz
+
+![alt text](https://i.ebayimg.com/thumbs/images/g/c04AAOSwLz9g1wIR/s-l300.jpg)
+
+
+
+
 
 <!--
 **Zhxrick/zhxrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
