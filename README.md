@@ -4,21 +4,19 @@ Zharick Carolina Donado Caliz
 
 ![alt text](https://i.ebayimg.com/thumbs/images/g/c04AAOSwLz9g1wIR/s-l300.jpg)
 
+-Soy aprendiz del Sena del programa Analisis y desarrollo de software, me encuentro en primer trimestre, mis aspiraciones son 
+obtener todo el conocimiento posible en este programa y encaminar mi vida laboral en ello.
+
+-Soy una joven con alto grado de compromiso, dedicación y capacidad para trabajar en equipo, los valores que me representan
+son la responsabilidad, honestidad y lealtadad.
+
+#### Datos personales:
+- Nombre: Zharick Carolina Donado Caliz
+- Documento de indentidad: 1043660098
 
 
 
 
-<!--
-**Zhxrick/zhxrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
