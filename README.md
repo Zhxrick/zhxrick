@@ -13,8 +13,8 @@ son la responsabilidad, honestidad y lealtadad*.
 
 #### Datos personales:
 - *Nombre:* Zharick Carolina Donado Caliz
-- *Documento de indentidad:* 10428873730
--*Fecha de nacimiento:* 17/03/2003
+- *Documento de indentidad:* 10428873730 
+- *Fecha de nacimiento:* 17/03/2003
 - *Lugar de nacimiento:* Barranquilla-Atlantico
 - *Estado civil:* Soltero
 - *Dirección:* Calle 18#17-70 Soledad-American Bar
