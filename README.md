@@ -27,9 +27,9 @@ son la responsabilidad, honestidad y lealtadad*.
 | Formación actual |           SENA (Centro industrial y de aviación)          | 2022 |
 
 ### Contacto
- -E-mail: zharickdonado848@gmail.com
+ :email: E-mail: zharickdonado848@gmail.com
  
- -Telefono: 3242828122
+:telephone: Telefono: 3242828122
 
 
 
