@@ -17,7 +17,7 @@ son la responsabilidad, honestidad y lealtadad*.
 - *Fecha de nacimiento:* 17/03/2003
 - *Lugar de nacimiento:* Barranquilla-Atlantico
 - *Estado civil:* Soltero
-- *Dirección:* Calle 18#17-70 Soledad-American Bar
+- *Dirección:* Calle 41#18-30 Soledad-American Bar
 
 ### Formacion academica:
 
