@@ -28,9 +28,9 @@
 
 - 🤝 I'm open to collaborating on exciting projects and helping other developers with their projects.
 
-- 📫 Feel free to contact me at zharickdonado848@gmail.com.
+- 📫 Feel free to contact me at zharickdonado848@gmail.com or +57 3242828122.
 
-- 💼 I have experience designing applications in Dart with Flutter.
+💼 I have experience designing applications in Dart with Flutter and basic web in Ruby on Rails.
 
 <!--Intro end-->
 
