@@ -18,19 +18,20 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🔭 Currently, I'm working on PHP, jQuery, JS.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 🌱 I'm currently learning React, React Native, Node.js, MongoDB.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💡 I'm interested in learning more about software architecture and user interface design.
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 🤝 I'm open to collaborating on exciting projects and helping other developers with their projects.
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 📫 Feel free to contact me at zharickdonado848@gmail.com.
+
+- 💼 I have experience designing applications in Dart with Flutter.
+
 <!--Intro end-->
 
 
