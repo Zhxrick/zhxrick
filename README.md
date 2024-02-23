@@ -27,6 +27,8 @@
 - 💡 I'm interested in learning more about software architecture and user interface design.
 
 - 🤝 I'm open to collaborating on exciting projects and helping other developers with their projects.
+  
+- 📚 Currently studying Software Analysis and Development at Servicio Nacional de Aprendizaje (SENA).
 
 - 📫 Feel free to contact me at zharickdonado848@gmail.com or +57 3242828122.
 
