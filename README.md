@@ -22,8 +22,6 @@
 
 - 🔭 Currently, I'm working on PHP, jQuery, JS.
 
-- 🌱 I'm currently learning React, React Native, Node.js, MongoDB.
-
 - 💡 I'm interested in learning more about software architecture and user interface design.
 
 - 🤝 I'm open to collaborating on exciting projects and helping other developers with their projects.
