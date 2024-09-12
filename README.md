@@ -30,7 +30,7 @@
 
 - 📫 Feel free to contact me at zharickdonado848@gmail.com or +57 3242828122.
 
-- 💼 I have experience designing applications in Dart with Flutter and basic web in Ruby on Rails.
+- 💼 I have experience designing applications in Dart with Flutter.
 
 <!--Intro end-->
 
@@ -78,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,dart,flutter,php,ruby,css,discord,dynamodb,figma,firebase,github,html,js,mysql,postman,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,dart,flutter,php,css,discord,dynamodb,figma,firebase,github,html,js,mysql,postman,vscode&perline=14" />
   </a>
 </p>
 
